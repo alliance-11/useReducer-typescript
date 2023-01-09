@@ -1,4 +1,4 @@
-# use-reducer-typescript
+# useReducer-typescript
 
 A minimal working sample demonstrating the usage of the React useReducer hook with TypeScript 
 
